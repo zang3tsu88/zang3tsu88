@@ -1,3 +1,5 @@
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=zang3tsu88&label=Profile%20views&color=0e75b6&style=flat"
@@ -42,8 +44,8 @@
 --></p>
 <!-- Main Generated -->
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
+<h3 align="center">Connect with me:</h3>
+<div align="center">
   <a href="https://t.me/maksimenia_a" target="_blank">
     <img
       src="https://img.shields.io/badge/Telegram-24a2df?style=for-the-badge&logo=telegram&logoColor=white"
@@ -79,14 +81,9 @@
   </a> -->
 </div>
 
-<img
-  align="right"
-  width="400"
-  alt="random coding gif"
-  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"
-/>
-
-<h3 align="left">Languages and Tools:</h3>
+<!-- div centers tech stack block -->
+<div align="center">
+<h3 align="center">Languages and Tools:</h3>
 <p>Frontend</p>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img
@@ -216,7 +213,7 @@
     height="40"
   />
 </a>
-
+</div>
 <!-- Footer -->
 <samp>
   <p align="center">
